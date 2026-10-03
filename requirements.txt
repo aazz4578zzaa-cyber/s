@@ -1,4 +1,4 @@
-aiogram==3.15.0
+aiogram==3.25.0
 telethon==1.36.0
 psutil==6.1.0
 pytz==2024.2
